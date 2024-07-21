@@ -1,0 +1,386 @@
+.header{
+    padding: 10px;
+    background-color:  #ab183d; 
+    height: 150px;
+    width: 914px;
+    margin-left: 120px;
+}
+.daddy{
+    height: auto;
+    width: 1200px;
+}
+h3{
+    margin-left: 170px;
+    padding-top: 50px;
+}
+h1{
+    margin-top: -120px;
+    text-align: center;
+    color: white;
+    margin-left: 50px;
+}
+h5{
+    margin-top: -20px;
+    text-align: center;
+    color: white;
+    margin-left: 60px;
+}
+.c{
+    color: red;
+    text-align: center;
+}
+.nav 
+{
+   margin-top: -2px;
+}
+.nav table{
+    text-decoration: none;
+    margin-left: 118px;
+}
+.nav td{
+    color:white;
+    background: black;
+    column-gap: 5px;
+    padding: 5px;
+    height: 15px;
+    width: 105px;
+    text-align: center;
+}
+.a{
+    color: blue;
+    text-decoration-line: underline;
+    margin-left: 150px;
+    width: 900px;
+}
+marquee{
+    color:blue;
+    text-decoration-line: underline;
+    margin-left: 150px;
+    width: 900px;
+}
+.m{
+    color:blue;
+    text-decoration-line: underline;
+    margin-left: 20px;
+    width: 900px;
+}
+.q{
+    color: blue;
+    text-decoration-line: underline;
+    margin-left: 20px;
+    width: 900px;
+}
+p{
+    text-align: center;
+}
+span{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.b h2{
+    width: 250px;
+    background-color: darkblue;
+    color: white;
+    height: 25px;
+}
+table{
+    width: auto;
+    height: auto;
+    column-gap: 5px;
+    row-gap: 5px;
+    border: 2px;
+    margin-left: 120px;
+}
+td{
+    padding: 15px;
+    height: 30px;
+    width: 210px;
+    color: white;
+    text-align: center;
+}
+.n{
+    width: 10px;
+    color: white;
+    font-size: 40px;
+    margin-top: -2px;
+}
+h6{
+    background-color: black;
+    color: white;
+    height: 15px;
+    width: 200px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.container{
+    margin-left: 50px;
+    height: auto;
+    width: 1000px;
+}
+.card{
+    min-height: 250px;
+    height: auto;
+    width: 300px;
+    border: 2px solid #ab183d;
+    float: left;
+    margin: 15;
+}
+.card-header{
+    height: 40px;
+    width: 300px;
+    line-height: 40px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+    background: #ab183d;
+}
+.card-body{
+    text-align: left;
+}
+.s{
+    text-align: right;
+    color: darkblue;
+}
+.block{
+    margin-left: 10px;
+    height: auto;
+    width: 1000px;
+}
+.box{
+    min-height: 850px;
+    height: auto;
+    width: 300px;
+    border: 2px solid #ab183d;
+    float: center;
+    margin: 15;
+}
+.box-header{
+    height: 40px;
+    width: 300px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+    background: #ab183d;
+    text-align: center;
+}
+.box-body{
+    font-size: 15px;
+    line-height: 20px;
+    color: black;
+    text-align: left;
+}
+.store{
+    margin-left: -40px;
+    height: auto;
+    width: 1000px;
+}
+.cont{
+    margin-top: -850px;
+    min-height: 850px;
+    height: auto;
+    width: 300px;
+    border: 2px solid #ab183d;
+    float: right;
+    margin: 15;
+}
+.cont-header{
+    height: 40px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+    background: #ab183d;
+    text-align: center;
+}
+.cont-body{
+    font-size: 15px;
+    line-height: 20px;
+    color: black;
+    text-align: left;
+}
+.ans{
+    height: auto;
+    width: 1000px;
+    margin-left: 20px;
+}
+.answ{
+    margin-top: 10px;
+    min-height: 220px;
+    font-weight: bold;
+    border: 2px solid #ab183d;
+    height: auto;
+    width: 300px;
+    float: left;
+    
+}
+.answ-head{
+    height: 30px;
+    color: #fff;
+    font-size: 22px;
+    background: #ab183d;
+    text-align: center;
+}
+.answ-body{
+    font-size: 15px;
+    line-height: 25px;
+    color: black;
+    text-align: left;
+}
+.syallbus{
+    height: auto;
+    width: auto;
+    margin-left: 20px;
+}
+.syal{
+    margin-top: 10px;
+    height: auto;
+    min-height:220px ;
+    border: 2px solid #ab183d;
+    float: center;
+    width: 300px;
+    font-weight: bold;
+}
+.syal-head{
+    color: #fff;
+    height: 30px;
+    font-size: 22px;
+    text-align: center;
+    background: #ab183d;
+}
+.syal-body{
+    font-size: 15px;
+    line-height: 25px;
+    color: black;
+    text-align: left;
+}
+.certificate{
+    height: auto;
+    width: auto;
+    margin-left: 20px;
+}
+.certi{
+    margin-top: 10px;
+    min-height: 300px;
+    height: auto;
+    font-weight: bold;
+    border: 2px solid #ab183d;
+    width: 300px;
+    float: left;
+}
+.certi-head{
+    text-align: center;
+    color: #fff;
+    background: #ab183d;
+    height: 30px;
+    font-size: 22px;
+}
+.certi-body{
+    font-size: 15px;
+    line-height: 25px;
+    color: black;
+    text-align: left;
+}
+.important{
+     height: auto;
+     width: auto;
+     margin-left: 2px;
+}
+.imp{
+    margin-top: 10px;
+    min-height: 300px;
+    height: auto;
+    float: center;
+    font-weight: bold;
+    border: 2px solid #ab183d;
+    width: 300px;
+}
+.imp-head{
+    text-align: center;
+    color: #fff;
+    background: #ab183d;
+    font-size: 22px;
+    height: 30px;
+}
+.imp-body{
+    font-size: 15px;
+    line-height: 25px;
+    color: black;
+    text-align: left;
+}
+.admission{
+    height: auto;
+    width: 1000px;
+    margin-left: -40px;
+}
+.adm{
+    margin-top: -540px;
+    height: auto;
+    min-height: 550px;
+    border: 2px solid #ab183d;
+    width: 300px;
+    float: right;
+    font-weight: bold;
+}
+.adm-head{
+    text-align: center;
+    color: #fff;
+    background: #ab183d;
+    height: 30px;
+    font-size: 22px;
+}
+.adm-body{
+    font-size: 15px;
+    line-height: 25px;
+    color: black;
+    text-align: left;
+}
+.paragraph{
+    height: auto;
+    width: auto;
+    margin-left: 10px;
+}
+.par-head{
+    text-align: center;
+    color: #fff;
+    background: #ab183d;
+    height: 30px;
+    font-size: 22px;
+}
+.par{
+    margin-top: 20px;
+    height: auto;
+    min-height: 350px;
+    border: 2px solid #ab183d;
+    width: 960px;
+    font-weight: bold;
+}
+.par-body{
+    line-height: 40px;
+    font-size: medium;
+    color: black;
+}
+.information{
+    height: auto;
+    width: auto;
+    margin-left: 10px;
+}
+.info{
+    margin-top: 20px;
+    height: auto;
+    min-height: 720px;
+    border: 2px solid #ab183d;
+    width: 960px;
+    font-weight: bold;
+}
+.info-head{
+    text-align: center;
+    color: #fff;
+    background: #ab183d;
+    height: 30px;
+    font-size: 22px;
+}
+.info-body{
+    line-height: 40px;
+    font-size: medium;
+    color: black;
+}
