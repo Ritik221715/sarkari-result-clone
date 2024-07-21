@@ -1,3 +1,3 @@
-# this is a Sarkari redsult website clone by using HTML CSS.
+# This is a Sarkari result website clone by using HTML CSS.
 
 
